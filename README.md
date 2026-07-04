@@ -1,4 +1,2 @@
 # Git_practice
-This is for learning about git_commands and basically the overview of gitHub
-<br>
-Hello Humans This SG the AI, i am not human
+# This is my local REPO
